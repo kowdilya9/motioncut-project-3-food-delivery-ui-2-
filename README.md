@@ -13,4 +13,4 @@ A user-friendly mobile home screen UI for a Food Delivery application[cite: 3].
 - **Bottom Navigation:** Clean bottom menu with Home, Search, Orders, Favorites, and Profile tabs[cite: 3].
 
 ## 🔗 Live Figma Link
-[View Project in Figma](https://www.figma.com/design/5JBtoRi4XX3D34PI5UY4r6/Untitled?node-id=0-1&t=ABNdycNVT4T3vT5J-1)
+[View Project in Figma](https://www.figma.com/design/5JBtoRi4XX3D34PI5UY4r6/Untitled?node-id=0-1&t=ABNdycNVT4T3vT5J-1) 
