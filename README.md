@@ -3,7 +3,7 @@
 A user-friendly mobile home screen UI for a Food Delivery application[cite: 3].
 
 ## 📱 Screen Preview
-![Food Delivery UI](motioncut-project-3-food-delivery-ui (2).png)
+<img src="motioncut-project-3-food-delivery-ui (2).png" width="350">
 ## 🎯 Features Designed
 - **Header Section:** Delivery location ("New Delhi") and user profile icon[cite: 3].
 - **Search Bar:** Rounded search bar with placeholder text[cite: 3].
